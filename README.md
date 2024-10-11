@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Hi, I'm SLAVA!
+- 🧑‍💻 Data Analyst specializing in Telecom
+- 💡 Passionate about data-driven solutions and marketing insights
+- 🌱 Currently learning geographical data integration and visualization
+- 🛠️ Working with Python, SQL, and Git
+- 📫 Reach me at tg @YaroslavG
+- 
+- ### 📊 Key Skills
+- Data analysis and visualization
+- Marketing reports and NPS evaluation
+- Python, SQL, and geographic data analysis
+- Telecom ecosystem expertise
 
-<!--
-**yroslavvens/yroslavvens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools I Use
+- Python, Pandas, Matplotlib, SQL
+- Git, GitHub Actions, CI/CD
