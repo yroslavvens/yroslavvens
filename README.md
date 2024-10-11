@@ -11,6 +11,11 @@
 - Python, SQL, and geographic data analysis
 - Telecom ecosystem expertise
 
-### 🔧 Tools I Use
-- Python, Pandas, Matplotlib, SQL
-- Git, GitHub Actions, CI/CD
+### 👨‍💻 Technologies I Use
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Structured-blue)
+![Git](https://img.shields.io/badge/Git-Distributed-orange?logo=git)
+
+### 🌐 Find Me Here
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your-email@gmail.com)
