@@ -17,3 +17,4 @@
 
 ### 🌐 Find Me Here
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/YaroslavG)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=radical)
