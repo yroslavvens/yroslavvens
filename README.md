@@ -14,7 +14,3 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Structured-blue)
 ![Git](https://img.shields.io/badge/Git-Distributed-orange?logo=git)
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=yroslavvens&theme=dark)
